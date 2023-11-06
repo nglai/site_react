@@ -25,3 +25,7 @@ Algumas regras de negócio:
 * React icons (ícones): npm i react-icons
 * Rotas: npm i react-router-dom
 * Identificador: npm i uuid
+
+### Para iniciar o projeto
+* npm start
+* npm run backend => starta o banco de dados que está na porta 5000
